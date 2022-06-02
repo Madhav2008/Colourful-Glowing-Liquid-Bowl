@@ -83,26 +83,3 @@ section {
     background: rgba(0, 0, 0, 0.5);
     border-radius: 50%;
 }
-
-@keyframes animate {
-    0% {
-        transform: rotate(0deg);
-    }
-
-    25% {
-        transform: rotate(15deg);
-    }
-
-    50% {
-        transform: rotate(0deg);
-    }
-
-    75% {
-        transform: rotate(-15deg);
-    }
-
-    100% {
-        filter: hue-rotate(360deg);
-        transform: rotate(0deg);
-    }
-}
