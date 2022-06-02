@@ -60,5 +60,5 @@ section {
 
 .liquid::before {
     content: '';
-    position: absolute;
+    position: absolute;width: 100%;
 }
