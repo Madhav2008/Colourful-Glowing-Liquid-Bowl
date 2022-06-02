@@ -58,4 +58,6 @@ section {
     filter: drop-shadow(0 0 80px #41c1fb);
 }
 
-.liquid::before {content: '';}
+.liquid::before {
+    content: '';
+}
