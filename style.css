@@ -125,7 +125,6 @@ section {
     }
 
     100% {
-        filter: hue-rotate(360deg);
         transform: rotate(0deg);
     }
 }
