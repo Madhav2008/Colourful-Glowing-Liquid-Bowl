@@ -59,7 +59,7 @@ section {
     border-bottom-right-radius: 150px;
     filter: drop-shadow(0 0 80px #41c1fb);
     transform-origin: top center;
-    animation: animateLiquid linear infinite;
+    animation: animateLiquid 5s linear infinite;
 }
 
 .liquid::before {
