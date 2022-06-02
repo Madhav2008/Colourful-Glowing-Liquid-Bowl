@@ -106,3 +106,25 @@ section {
         transform: rotate(0deg);
     }
 }
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(15deg);
+    }
+
+    50% {
+        transform: rotate(0deg);
+    }
+
+    75% {
+        transform: rotate(-15deg);
+    }
+
+    100% {
+        filter: hue-rotate(360deg);
+        transform: rotate(0deg);
+    }
+}
