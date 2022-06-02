@@ -22,7 +22,8 @@ section {
 
 .bowl::before {
     content: '';
-    position: absolute;top: -15px;
+    position: absolute;
+    top: -15px;
     left: 50%;
     transform: translateX(-50%);
     width: 40%;
