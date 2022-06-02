@@ -47,5 +47,5 @@ section {
 
 .liquid {
     position: absolute;
-    top: 50%;
+    top: 50%;left: 5px;
 }
