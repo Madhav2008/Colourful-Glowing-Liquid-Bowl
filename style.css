@@ -22,5 +22,6 @@ section {
 
 .bowl::before {
     content: '';
-    position: absolute;width: 40%;
+    position: absolute;
+    width: 40%;
 }
