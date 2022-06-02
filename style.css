@@ -32,4 +32,4 @@ section {
     border: 15px solid #444;
     border-radius: 50%;
     box-shadow: 0 10px #222;
-}
+}.bowl::after
