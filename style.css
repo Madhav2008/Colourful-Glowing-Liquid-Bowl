@@ -12,4 +12,6 @@ section {
     background: #121212;
 }
 
-.bowl {position: relative;}
+.bowl {
+    position: relative;
+}
