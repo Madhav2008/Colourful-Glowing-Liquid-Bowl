@@ -24,7 +24,7 @@ section {
     content: '';
     position: absolute;
     left: 50%;
-    transform: translateX(-50px);
+    transform: translateX(-50%);
     width: 40%;
     height: 30px;
     border: 15px solid #444;
