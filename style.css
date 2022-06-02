@@ -23,6 +23,7 @@ section {
 .bowl::before {
     content: '';
     position: absolute;
+    left: 50%;
     width: 40%;
     height: 30px;
     border: 15px solid #444;
