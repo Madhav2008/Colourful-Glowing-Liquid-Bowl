@@ -20,4 +20,6 @@ section {
     border-radius: 50%;
 }
 
-.bowl::before {content: '';}
+.bowl::before {
+    content: '';
+}
