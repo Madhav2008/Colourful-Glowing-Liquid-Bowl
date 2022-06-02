@@ -51,5 +51,6 @@ section {
     left: 5px;
     right: 5px;
     bottom: 5px;
-    background: #41c1fb;border-bottom-left-radius: 50%;
+    background: #41c1fb;
+    border-bottom-left-radius: 50%;
 }
