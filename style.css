@@ -21,5 +21,6 @@ section {
 }
 
 .bowl::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
