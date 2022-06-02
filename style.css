@@ -35,5 +35,6 @@ section {
 }
 
 .bowl::after {
-    position: absolute;width: 150px;
+    position: absolute;
+    width: 150px;
 }
