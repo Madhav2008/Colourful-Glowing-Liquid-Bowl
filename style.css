@@ -58,7 +58,6 @@ section {
     border-bottom-left-radius: 150px;
     border-bottom-right-radius: 150px;
     filter: drop-shadow(0 0 80px #41c1fb);
-    
     transform-origin: bottom center;
     animation: animate linear infinite;
 }
