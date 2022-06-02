@@ -71,5 +71,6 @@ section {
 
 .shadow {
     position: absolute;
-    width: 300px;height: 30px;
+    width: 300px;
+    height: 30px;
 }
