@@ -34,4 +34,6 @@ section {
     box-shadow: 0 10px #222;
 }
 
-.bowl::after {position: absolute;}
+.bowl::after {
+    position: absolute;
+}
