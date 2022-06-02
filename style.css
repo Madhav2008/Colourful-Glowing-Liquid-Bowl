@@ -20,7 +20,7 @@ section {
     border-radius: 50%;
     border: 8px solid transparent;
     transform-origin: bottom center;
-    animation: animate linear infinite;
+    animation: animate 5s linear infinite;
 }
 @keyframes animate {
     0% {
